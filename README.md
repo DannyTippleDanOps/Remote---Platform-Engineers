@@ -14,7 +14,7 @@ Key skills/experience or willing to learn;
 - Expertise in NodeJS or modern programming language 
 - Design and implementation of low-latency, high-availability applications
 - Understanding the fundamental design principles behind a scalable application
-- Understanding of distributed systems and the difference between microservices and Message Driven Architecture.
+- Understanding of distributed systems and the difference between Microservices and Message Driven Architecture.
 - Experience with AWS, Docker, Kubernetes, Serverless, FaaS, Microservices
 
 If you are interested/tempted/curious in hearing more about an opportunity, please get in touch with me @ Danny.Tipple@thirdrepublic.com
