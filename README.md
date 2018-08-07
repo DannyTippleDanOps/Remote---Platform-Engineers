@@ -3,7 +3,7 @@ Global VOD client building a new Engineering team in Amsterdam - Microservices, 
 
 We are hiring Lead, Senior, Mid and Junior Sofwtare Engineers to develop and deliver a back-end API for a brand new product, develop new features and launch new platforms for millions of monthly users 
 
-You will need to a proven ability in delivering highly scalable backend applications, a desire to work in a fast paced, Agile software development environment and a passion for building a world class product
+You will need a proven ability in delivering highly scalable backend applications, a desire to work in a fast paced, Agile software development environment and a passion for building a world class product
 
 Some of the key components of your new role include;
 - Delivering high quality, robust and testable code adhering to internal engineering procedures, code conventions and development methodologies
