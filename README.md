@@ -1,4 +1,4 @@
-# Platform Engineer-£75-100k
+# Platform Engineer-€80-100k - Munich/Munchen
 
 We are hiring Lead, Senior, Mid and Junior Sofwtare Engineers to work in a platform team developing and delivering a back-end API for a brand new product, developing new features and launch new platforms for millions of monthly users 
 
